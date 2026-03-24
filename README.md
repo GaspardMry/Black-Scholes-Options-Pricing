@@ -18,4 +18,4 @@ with implied volatility extraction and volatility smile/surface analysis on AAPL
 `numpy` `pandas` `scipy` `matplotlib` `yfinance`
 
 ## Context
-Personal project - Complementary training *Derivatives & Financial Markets*
+Personal Project - Complementary Training *Derivatives & Financial Markets*
